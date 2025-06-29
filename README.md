@@ -61,11 +61,4 @@ Integrate with a dashboard (Power BI/Tableau)
 
 Automate data updates and retraining pipeline
 
-📌 How to Run
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/telco-churn.git
-cd telco-churn
-pip install -r requirements.txt
-jupyter notebook
+
